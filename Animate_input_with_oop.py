@@ -8,8 +8,7 @@ import matplotlib.pyplot as plt
 import sounddevice
 from scipy.io.wavfile import write
 import matplotlib.animation as animation
-import datetime as dt
-import time
+
 
 class ShowSound():
    def __init__(self): 
